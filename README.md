@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rocco-hundertmark
 - 👀 I’m interested in React, Angular, GraphQL, C#
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Github Actions
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
